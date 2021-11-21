@@ -14,6 +14,8 @@ Project objective:
 
 --------
 
-In this project I employ a Correlational Class Analysis (CCA) to try to measure "shared understanding" across respondents of different cultures. To do so, I use data from the World Values Survey (WVS) and the notion of Culture Zones from "The Inglehart-Welzel World Cultural Map".
+In this project I use a Correlational Class Analysis (CCA) to try to measure "shared understanding" across respondents of different cultures. To do so, I use data from the World Values Survey (WVS) and the notion of Culture Zones from "The Inglehart-Welzel World Cultural Map".
 
 I use CCA on the 6  variables that were used by Inglehart (1997) to create the Cultural Map and that he selected with a PCA. I then divided the subjects into 3 different "Cognitive Schema Classes" and used a random forest to find the most predictive variables for the creation of these classes with the CCA.
+
+For more information, please refer to the paper.
