@@ -1,7 +1,7 @@
 
 #=======================================================================
 
-# Cultural (or cognitive?) schema studies with WVS
+# Cognitive schema studies with WVS
 # Riccardo Improta
 # Università degli Studi di Trento
 
